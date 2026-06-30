@@ -15,3 +15,6 @@ Cyber Security CTF Machine
 2. Start the virtual machine.
 3. Access the hosted website.
 4. Perform enumeration and solve the CTF.
+   ## Virtual Machine Download
+   Google Drive LINK:
+   https://drive.google.com/file/d/YOUR_FILE_ID/vi ew?usp=sharing
